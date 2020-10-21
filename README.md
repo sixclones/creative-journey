@@ -19,7 +19,7 @@ Since I started to code, I was interested by using computers to make creative an
 - [Raymarching](#raymarching)
 - [Rust](#rust)
 - [Shaders - GLSL](#shaders---glsl)
-- [Shell](#shell)
+- [Shell - CLI](#shell---cli)
 - [Unity](#unity)
 - [WebGL](#webgl)
 - [Others](#others)
@@ -287,7 +287,24 @@ This is a gentle step-by-step guide through the abstract and complex universe of
 
 ---
 
-## Shell
+## Shell - CLI
+
+### Curly brackets
+[Link](https://twitter.com/wesbos/status/952984066093182976)
+```bash
+echo hello Ro{ch,bert,drigo}
+# > hello Roch Robert Rodrigo
+
+touch Button.{html,css,js}
+# > Button.html Button.css Button.js
+
+npm i -D eslint-config-{prettier,react-app,airbnb}
+
+mv index.js{,.save}
+# > index.js.save
+cp index.js{,.save}
+# > index.js index.js.save
+```
 
 ### Grep and Sed, Demystified
 **Keith Peters** - 2020/09/14 - Personal website - [Link](https://www.bit-101.com/blog/2020/09/grep-and-sed-demystified/)
