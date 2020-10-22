@@ -1,6 +1,6 @@
 # Creative Journey
 
-Since I started to code, I was interested by using computers to make creative and artistic things. This is a page where I share ressources (articles, videos, tutorials etc.) that helped me.
+Since I started to code, I was interested by using computers to make creative and artistic things. This is a page where I share resources (articles, videos, tutorials etc.) that helped me.
 
 > You can find a section on how it works at [the bottom of this page](#what-is-this-and-how-it-works).
 
@@ -367,7 +367,7 @@ JPEG images are everywhere in our digital lives, but behind the veil of familiar
 ## What is this and how it works?
 
 This page is a list of links that helped me or that I find interesting.<br>
-There is a lot of ressources that exist and that are not there because I didn't find them interesting or I simply didn't read them. So there might be things that seems intential to you that are "missing" here.<br>
+There is a lot of resources that exist and that are not there because I didn't find them interesting or I simply didn't read them. So there might be things that seems intential to you that are "missing" here.<br>
 This is not planned to be exhaustive.
 
 It is split into different parts that are sorted alphabetically, into each parts the links are also sorted alphabetically.<br>
