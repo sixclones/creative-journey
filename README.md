@@ -135,6 +135,10 @@ Description of some of the common techniques and patterns that Hobbs uses when w
 **Kate Hudson** (+109 contributors) - Github - [Link](https://github.com/k88hudson/git-flight-rules)<br>
 A guide for programmers using Git about what to do when things go wrong.
 
+### Oh My Zsh git plugin
+Github - [Link](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)<br>
+This [Oh My Zsh](#oh-my-zsh) git plugin provides many aliases and a few useful functions.
+
 ---
 
 ## Javascript
@@ -308,6 +312,10 @@ cp index.js{,.save}
 
 ### Grep and Sed, Demystified
 **Keith Peters** - 2020/09/14 - Personal website - [Link](https://www.bit-101.com/blog/2020/09/grep-and-sed-demystified/)
+
+### Oh My Zsh
+Github - [Link](https://github.com/ohmyzsh/ohmyzsh)<br>
+A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ---
 
