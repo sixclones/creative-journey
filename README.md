@@ -91,6 +91,10 @@ A talk about generating art with CSS, especially [css-doodle](https://css-doodle
 Tim Holman and Ruth John - [Link](https://generativeartistry.com/tutorials/)<br>
 A range of interactive tutorials, exploring ideas and techniques used in generative art. Progressively learn the steps used to create generative art.
 
+### Generative Book Covers
+**Golan Levin** - 2020/06/13 - Github - [Link](https://github.com/golanlevin/generative_covers)<br>
+This page compiles examples of large-run printed books with generative cover designs.
+
 ### Impossible Architecture
 **inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
 A guide to a simple method of generating impossible architecture.
