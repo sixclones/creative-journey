@@ -8,6 +8,7 @@ Since I started to code, I was interested by using computers to make creative an
 
 - [Cellular automata](#cellular-automata)
 - [Connected things](#connected-things)
+- [Demoscene](#demoscene)
 - [Generative art](#generative-art)
 - [Git](#git)
 - [Javascript](#javascript)
@@ -62,6 +63,43 @@ The ground-breaking bluetooth beacon. An Open Source JavaScript microcontroller 
 ### Raspberry Pi
 [Link](https://www.raspberrypi.org)<br>
 Your tiny, dual-display, desktop computer.
+
+---
+
+## Demoscene
+
+### Aurora
+**Excess** - 2018/04/01 - gloom303 YouTube channel - [Link](https://youtu.be/cgDMkwGk56Q)<br>
+Real-time graphics demoscene production by Excess. First presented at Revision 2018 demoparty in Germany, April 1st, 2018.
+
+### Glitch Rider
+**Alcatraz** - 2019/08/17 - Demoscene TV YouTube channel - [Link](https://youtu.be/ZIXxsGxmuvY)<br>
+1st place in the PC 4K Intro compo at the Evoke 2019 demoparty.
+
+### median
+**Ümlaüt Design** - 2016/05/22 - w0lf Universe YouTube channel - [Link](https://youtu.be/i4vf8kpQ3hA)<br>
+median by Ümlaüt Design, QB Party 2016, demo competition.
+
+### on
+**mercury** - 2015/04/07 - 
+Demoscene High-Quality Videos (Annikras) YouTube channel - [Link](https://youtu.be/XF4SEVbxUdE)<br>
+2nd place in pc 64k compo at Revision 2015.
+
+### Sync Cord
+**NuSan and Valden** - 2020/04/11 - NuSan YouTube channel - [Link](https://youtu.be/f3VSeLyooXA)<br>
+4th in the revision online 2020 PC 4k intro competition.
+
+### teori
+**Altair** - 2020/01 - ratz YouTube channel - [Link](https://youtu.be/zWqfX9J9BXI)<br>
+1st place in combined demo/intro compo at rsync 2020 demoparty in Brussels.
+
+### Whitespace
+**Prismbeings** - 2016/05 - Cursed demos YouTube channel - [Link](https://youtu.be/XPEa8PVT3vM)<br>
+4kb intro, released at Simulaatio 2016, placed 1st in the newschool intro competition.
+
+### Zetsubo
+**Prismbeings** - 2018/04 - Demoscene in 23.976 Hertz YouTube channel - [Link](https://youtu.be/ncdA3t_vzF8)<br>
+4k intro released at Revision 2018 demoparty.
 
 ---
 
