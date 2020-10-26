@@ -117,6 +117,10 @@ This article is about one posible way to compute procedural palettes for modulat
 **Tyler Hobbs** - 2014/10/18 - Personal website - [Link](https://tylerxhobbs.com/essays/2014/probability-distributions-for-algorithmic-artists)<br>
 This post describes some of the common distributions that are useful for artwork.
 
+### Pseudorandom noise
+**Catlike Coding** - Personal website - [Link](https://catlikecoding.com/unity/tutorials/pseudorandom-noise/)<br>
+A series about creating and using pseudorandom noise.
+
 ### Tips to improve your generative artwork
 **Tyler Hobbs** - 2018/01/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)<br>
 Some advice to help improve your generative artwork.
