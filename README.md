@@ -468,5 +468,7 @@ This page is a list of links that helped me or that I find interesting.<br>
 There is a lot of resources that exist and that are not there because I didn't find them interesting or I simply didn't read them. So there might be things that seems intential to you that are "missing" here.<br>
 This is not planned to be exhaustive.
 
+As creative developer or generative artist we are dealing with code and everything that comes with. Including the most technical part like languages or versionning. So on this page you might find some links that are not direclty relatable to creative things but that you might need one day or another.
+
 It is split into different parts that are sorted alphabetically, into each parts the links are also sorted alphabetically.<br>
 The list is updated every months. There is no need to suggest me things to add.
