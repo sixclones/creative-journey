@@ -303,6 +303,10 @@ This playground lets you use Orca and its companion app Pilot directly in the br
 [Link](https://www.line-us.com/)<br>
 The Internet Connected Drawing Robot
 
+### Plotter-mapping with Axidraw
+**colormoter** - 2020/10/25 - Tweet from colormotor - [Link](https://twitter.com/colormotor/status/1320356812424646657)<br>
+Mapping video with an axidraw plotting.
+
 ---
 
 ## Raymarching
