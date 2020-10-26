@@ -411,6 +411,10 @@ Générateur de Lorraine Hipseaume.
 **Omar Shehata** - 2019/03/01 - Parametric press - [Link](https://parametric.press/issue-01/unraveling-the-jpeg/)<br>
 JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
 
+### wax
+**LingDong-** - Github - [Link](https://github.com/LingDong-/wax)<br>
+wax is a tiny language designed to transpile to other languages easily. Currently supported backends: C, Java, TypeScript, Python and C#.
+
 ---
 ---
 
