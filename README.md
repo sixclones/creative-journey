@@ -89,6 +89,10 @@ Your tiny, dual-display, desktop computer.
 **Tyler Hobbs** - 2017/04/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints)<br>
 Explanation of the technique behind the "watercolor" generative artwork of Tyler Hobbs.
 
+### Cracking
+**WBlut** - Personal website - [Link](https://wblut.com/cracking/)<br>
+Build a generative system in Processing to explore the of cracking.
+
 ### Flow Fields
 **Keith Peters** - 2017/10/23, 2017/10/30 - Medium article - [Link to part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8), [Link to part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d)<br>
 What a flow field is, show how to create one, and give a few examples of experimenting with them.
@@ -96,6 +100,10 @@ What a flow field is, show how to create one, and give a few examples of experim
 ### Generative Artistry
 Tim Holman and Ruth John - [Link](https://generativeartistry.com/tutorials/)<br>
 A range of interactive tutorials, exploring ideas and techniques used in generative art. Progressively learn the steps used to create generative art.
+
+### Li(n)e
+**WBlut** - Personal website - [Link](https://wblut.com/line/)<br>
+Create a bunch of random line segments and draw circles on every intersection.
 
 ### Palettes
 **Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
