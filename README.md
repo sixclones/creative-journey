@@ -6,9 +6,11 @@ Since I started to code, I was interested by using computers to make creative an
 
 ## Summary
 
+- [Notes](#notes)
 - [Augmented Reality](#augmented-reality)
 - [Cellular automata](#cellular-automata)
 - [Connected things](#connected-things)
+- [Creative coding](#creative-coding)
 - [Demoscene](#demoscene)
 - [Generative art](#generative-art)
 - [Git](#git)
@@ -26,6 +28,10 @@ Since I started to code, I was interested by using computers to make creative an
 - [WebGL](#webgl)
 - [Others](#others)
 - [What is this and how it works?](#what-is-this-and-how-it-works)
+
+## Notes
+
+A quick note on the difference between [*Creative coding section*](#creative-coding) and [*Generative art section*](#generative-art) and why I splited things in two parts. I make a distinction between those two terms as I wanted to have a section more dedicated to the coding tricks and another one more oriented on the thinking behing doing art. So you might find some articles titled "Doing this with generative art" in *Creative coding* because it's a technical breakdown of a process or an effect. So this part might be view as "Doing creative and artistic things with code" and the other one like "Thoughts about (generative) art".
 
 ---
 
@@ -77,6 +83,42 @@ Your tiny, dual-display, desktop computer.
 
 ---
 
+## Creative coding
+
+### A guide to simulating watercolor paint with generative art
+**Tyler Hobbs** - 2017/04/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints)<br>
+Explanation of the technique behind the "watercolor" generative artwork of Tyler Hobbs.
+
+### Flow Fields
+**Keith Peters** - 2017/10/23, 2017/10/30 - Medium article - [Link to part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8), [Link to part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d)<br>
+What a flow field is, show how to create one, and give a few examples of experimenting with them.
+
+### Generative Artistry
+Tim Holman and Ruth John - [Link](https://generativeartistry.com/tutorials/)<br>
+A range of interactive tutorials, exploring ideas and techniques used in generative art. Progressively learn the steps used to create generative art.
+
+### Palettes
+**Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
+This article is about one posible way to compute procedural palettes for modulation or visualization in a cheap way with a simple formula.
+
+### Impossible Architecture
+**inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
+A guide to a simple method of generating impossible architecture.
+
+### Probability Distributions for Algorithmic Artists
+**Tyler Hobbs** - 2014/10/18 - Personal website - [Link](https://tylerxhobbs.com/essays/2014/probability-distributions-for-algorithmic-artists)<br>
+This post describes some of the common distributions that are useful for artwork.
+
+### Tips to improve your generative artwork
+**Tyler Hobbs** - 2018/01/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)<br>
+Some advice to help improve your generative artwork.
+
+### Working with color in generative art
+**Tyler Hobbs** - 2016/10/23 - Personal website - [Link](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art)<br>
+Description of some of the common techniques and patterns that Hobbs uses when working with colors in generative artwork.
+
+---
+
 ## Demoscene
 
 ### Aurora
@@ -115,10 +157,6 @@ median by Ümlaüt Design, QB Party 2016, demo competition.
 
 ## Generative art
 
-### A guide to simulating watercolor paint with generative art
-**Tyler Hobbs** - 2017/04/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints)<br>
-Explanation of the technique behind the "watercolor" generative artwork of Tyler Hobbs.
-
 ### A Story of Iteration: Generating "Blotch"
 **Benjamin Kovach** - 2018/04/30 - [Link](https://www.kovach.me/posts/2018-04-30-blotch.html)<br>
 Iteration of the piece "Blotch".
@@ -127,45 +165,21 @@ Iteration of the piece "Blotch".
 **Tyler Hobbs** - 2019/06/16 - Personal website - [Link](https://tylerxhobbs.com/essays/2019/code-goes-in-art-comes-out)<br>
 Talk gave at Clojure/conj 2018, and focuses on some of the interesting questions around practicing generative art.
 
-### Flow Fields
-**Keith Peters** - 2017/10/23, 2017/10/30 - Medium article - [Link to part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8), [Link to part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d)<br>
-What a flow field is, show how to create one, and give a few examples of experimenting with them.
-
 ### Generative art with CSS
 **Yuan Chuan** - 2019 - Personal website - [Link](https://generative-art-with-css.commons.host), [Link to Slides](https://yuanchuan.dev/talk/generative-art-with-css/)<br>
 A talk about generating art with CSS, especially [css-doodle](https://css-doodle.com).
-
-### Generative Artistry
-Tim Holman and Ruth John - [Link](https://generativeartistry.com/tutorials/)<br>
-A range of interactive tutorials, exploring ideas and techniques used in generative art. Progressively learn the steps used to create generative art.
 
 ### Generative Book Covers
 **Golan Levin** - 2020/06/13 - Github - [Link](https://github.com/golanlevin/generative_covers)<br>
 This page compiles examples of large-run printed books with generative cover designs.
 
-### Impossible Architecture
-**inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
-A guide to a simple method of generating impossible architecture.
-
 ### Intellectualism hurts generative art
 **Tyler Hobbs** - 2018/05/25 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/intellectualism-hurts-generative-art)<br>
 An essay about the link between clever algorithms and generative art.
 
-### Palettes
-**Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
-This article is about one posible way to compute procedural palettes for modulation or visualization in a cheap way with a simple formula.
-
-### Probability Distributions for Algorithmic Artists
-**Tyler Hobbs** - 2014/10/18 - Personal website - [Link](https://tylerxhobbs.com/essays/2014/probability-distributions-for-algorithmic-artists)<br>
-This post describes some of the common distributions that are useful for artwork.
-
 ### So you want to build a generator...
 **Kate Compton** - 2016/02/22 - Personal website - [Link](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)<br>
 This is a beginner-level advice essay for people just getting started with building generators. It’s also for practiced experts who want a way to organize their knowledge. The advice is meant for any kind of generators: humorous twitterbots, fanciful art-making bots, level generators, planet builders, makers of music, architecture, poetry, and cocktails.
-
-### Tips to improve your generative artwork
-**Tyler Hobbs** - 2018/01/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)<br>
-Some advice to help improve your generative artwork.
 
 ### Vera Molnár, interview | Paris
 **Vera Molnár** - 2017/06/11 - studio international Vimeo channel - [Link](https://vimeo.com/273642211)<br>
@@ -174,10 +188,6 @@ The pioneer of computer-assisted art recounts her love affair with lines, the ba
 ### Vera Molnár: Randomness
 **Vera Molnár** - 2019/11/12 - MuDA Vimeo channel - [Link](https://vimeo.com/372579247)<br>
 Kids, if anyone ever questions your "computer art" please point them to what 95 year old digital arts pioneer Vera Molnar has to say about that.
-
-### Working with color in generative art
-**Tyler Hobbs** - 2016/10/23 - Personal website - [Link](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art)<br>
-Description of some of the common techniques and patterns that Hobbs uses when working with colors in generative artwork.
 
 ---
 
