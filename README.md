@@ -48,11 +48,11 @@ Recreational programming competition to build a digital clock in Conway's Game o
 The purpose of this page is to describe the functioning of a computer built in Conway’s game of life.
 
 ### Coding Challenge #13: Reaction Diffusion Algorithm in p5.js
-**Daniel Shiffman** - 2016/05/26 - The Coding Train YouTube channel - [Link](https://youtu.be/BV9ny785UNc)<br>
+**Daniel Shiffman** - 2016/05/26 - YouTube channel of The Coding Train - [Link](https://youtu.be/BV9ny785UNc)<br>
 Visualize a Reaction Diffusion simulation using the Gray Scott model in JavaScript (with the p5.js library).
 
 ### Let’s build a computer in Conway's game of life ⠠⠵
-**Alan Zucconi** - 2020/10/05 - Alan Zucconi YouTube Channel - [Link](https://youtu.be/Kk2MH9O4pXY)<br>
+**Alan Zucconi** - 2020/10/05 - YouTube channel of Alan Zucconi - [Link](https://youtu.be/Kk2MH9O4pXY)<br>
 A short documentary on Conway's Game of Life, to celebrate the 50th anniversary of its original publication on the October 1970 issue of Scientific American.
 
 ### Reaction-Diffusion Tutorial
@@ -80,36 +80,35 @@ Your tiny, dual-display, desktop computer.
 ## Demoscene
 
 ### Aurora
-**Excess** - 2018/04/01 - gloom303 YouTube channel - [Link](https://youtu.be/cgDMkwGk56Q)<br>
+**Excess** - 2018/04/01 - YouTube channel of gloom303 - [Link](https://youtu.be/cgDMkwGk56Q)<br>
 Real-time graphics demoscene production by Excess. First presented at Revision 2018 demoparty in Germany, April 1st, 2018.
 
 ### Glitch Rider
-**Alcatraz** - 2019/08/17 - Demoscene TV YouTube channel - [Link](https://youtu.be/ZIXxsGxmuvY)<br>
+**Alcatraz** - 2019/08/17 - YouTube channel of Demoscene TV - [Link](https://youtu.be/ZIXxsGxmuvY)<br>
 1st place in the PC 4K Intro compo at the Evoke 2019 demoparty.
 
 ### median
-**Ümlaüt Design** - 2016/05/22 - w0lf Universe YouTube channel - [Link](https://youtu.be/i4vf8kpQ3hA)<br>
+**Ümlaüt Design** - 2016/05/22 - YouTube channel of w0lf Universe - [Link](https://youtu.be/i4vf8kpQ3hA)<br>
 median by Ümlaüt Design, QB Party 2016, demo competition.
 
 ### on
-**mercury** - 2015/04/07 - 
-Demoscene High-Quality Videos (Annikras) YouTube channel - [Link](https://youtu.be/XF4SEVbxUdE)<br>
+**mercury** - 2015/04/07 - YouTube channel of Demoscene High-Quality Videos (Annikras) - [Link](https://youtu.be/XF4SEVbxUdE)<br>
 2nd place in pc 64k compo at Revision 2015.
 
 ### Sync Cord
-**NuSan and Valden** - 2020/04/11 - NuSan YouTube channel - [Link](https://youtu.be/f3VSeLyooXA)<br>
+**NuSan and Valden** - 2020/04/11 - YouTube channel of NuSan - [Link](https://youtu.be/f3VSeLyooXA)<br>
 4th in the revision online 2020 PC 4k intro competition.
 
 ### teori
-**Altair** - 2020/01 - ratz YouTube channel - [Link](https://youtu.be/zWqfX9J9BXI)<br>
+**Altair** - 2020/01 - YouTube channel of ratz - [Link](https://youtu.be/zWqfX9J9BXI)<br>
 1st place in combined demo/intro compo at rsync 2020 demoparty in Brussels.
 
 ### Whitespace
-**Prismbeings** - 2016/05 - Cursed demos YouTube channel - [Link](https://youtu.be/XPEa8PVT3vM)<br>
+**Prismbeings** - 2016/05 - YouTube channel of Cursed demos - [Link](https://youtu.be/XPEa8PVT3vM)<br>
 4kb intro, released at Simulaatio 2016, placed 1st in the newschool intro competition.
 
 ### Zetsubo
-**Prismbeings** - 2018/04 - Demoscene in 23.976 Hertz YouTube channel - [Link](https://youtu.be/ncdA3t_vzF8)<br>
+**Prismbeings** - 2018/04 - YouTube channel of Demoscene in 23.976 Hertz - [Link](https://youtu.be/ncdA3t_vzF8)<br>
 4k intro released at Revision 2018 demoparty.
 
 ---
@@ -237,7 +236,7 @@ JavaScript 3D library.
 ## Machine learning - Neural network
 
 ### But what is a Neural Network?
-**3Blue1Brown** - 2017/10/05 - 3Blue1Brown Youtube Channel - [Link](https://youtu.be/aircAruvnKk)
+**3Blue1Brown** - 2017/10/05 - YouTube channel of 3Blue1Brown - [Link](https://youtu.be/aircAruvnKk)
 
 ### Machine Learning for Artists
 [Link](https://ml4a.github.io/)<br>
