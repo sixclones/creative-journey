@@ -14,7 +14,7 @@ Since I started to code, I was interested by using computers to make creative an
 - [Git](#git)
 - [Javascript](#javascript)
 - [Machine learning - Neural network](#machine-learning---neural-network)
-- [Maths](#maths)
+- [Maths and physics](#maths-and-physics)
 - [Network](#network)
 - [ORCΛ](#orcλ)
 - [Plotter](#plotter)
@@ -243,7 +243,11 @@ JavaScript 3D library.
 [Link](https://ml4a.github.io/)<br>
 ml4a is a collection of free educational resources devoted to machine learning for artists.
 
-## Maths
+## Maths and physics
+
+### Beginner friendly physical simulations
+**lisyarus** - 2020/10/20 - Twitter thread from lisyarus - [Link](https://threadreaderapp.com/thread/1318605976786919424.html)<br>
+A (mostly) beginner-friendly thread on how to code simple physical simulations.
 
 ### Collision detection
 **Jeff Thompson** - [Link](http://www.jeffreythompson.org/collision-detection/index.php)<br>
