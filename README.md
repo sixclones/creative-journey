@@ -101,6 +101,10 @@ What a flow field is, show how to create one, and give a few examples of experim
 Tim Holman and Ruth John - [Link](https://generativeartistry.com/tutorials/)<br>
 A range of interactive tutorials, exploring ideas and techniques used in generative art. Progressively learn the steps used to create generative art.
 
+### Impossible Architecture
+**inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
+A guide to a simple method of generating impossible architecture.
+
 ### Li(n)e
 **WBlut** - Personal website - [Link](https://wblut.com/line/)<br>
 Create a bunch of random line segments and draw circles on every intersection.
@@ -108,10 +112,6 @@ Create a bunch of random line segments and draw circles on every intersection.
 ### Palettes
 **Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
 This article is about one posible way to compute procedural palettes for modulation or visualization in a cheap way with a simple formula.
-
-### Impossible Architecture
-**inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
-A guide to a simple method of generating impossible architecture.
 
 ### Probability Distributions for Algorithmic Artists
 **Tyler Hobbs** - 2014/10/18 - Personal website - [Link](https://tylerxhobbs.com/essays/2014/probability-distributions-for-algorithmic-artists)<br>
