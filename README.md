@@ -443,6 +443,10 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 [Link](https://carbon.now.sh/)<br>
 Create and share beautiful images of your source code.
 
+### High quality GIF with FFmpeg
+**pkh** - 2015/03/16 - Personal website - [Link](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)<br>
+Improve the support of the GIF encoding in FFmpeg to make it decent, notably led to the addition of the transparency mechanism in the GIF encoder.
+
 ### Hygen
 [Link](http://www.hygen.io/)<br>
 The scalable code generator that saves you time.
