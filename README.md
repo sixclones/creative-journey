@@ -287,6 +287,10 @@ In this playlist, Daniel Shiffman explains word embeddings and the machine learn
 **lisyarus** - 2020/10/20 - Twitter thread from lisyarus - [Link](https://threadreaderapp.com/thread/1318605976786919424.html)<br>
 A (mostly) beginner-friendly thread on how to code simple physical simulations.
 
+### Byrne's Euclid
+**Nicholas Rougeux** (reproduction of Oliver Byrne book) - Online book - [Link](https://www.c82.net/euclid/)<br>
+The first six books of the elements of Euclid with coloured diagrams and symbols. A reproduction of Oliver Byrne’s celebrated work from 1847 plus interactive diagrams, cross references and posters.
+
 ### Collision detection
 **Jeff Thompson** - [Link](http://www.jeffreythompson.org/collision-detection/index.php)<br>
 This book explains the algorithms behind collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
