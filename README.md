@@ -194,6 +194,10 @@ An essay about the link between clever algorithms and generative art.
 **Kate Compton** - 2016/02/22 - Personal website - [Link](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)<br>
 This is a beginner-level advice essay for people just getting started with building generators. It’s also for practiced experts who want a way to organize their knowledge. The advice is meant for any kind of generators: humorous twitterbots, fanciful art-making bots, level generators, planet builders, makers of music, architecture, poetry, and cocktails.
 
+### The Best Art
+**Nicole He** - 2017 - [Link](https://the-best-art.computer)<br>
+The Best Art is an artistic collaboration between the computer and the human.
+
 ### Vera Molnár, interview | Paris
 **Vera Molnár** - 2017/06/11 - studio international Vimeo channel - [Link](https://vimeo.com/273642211)<br>
 The pioneer of computer-assisted art recounts her love affair with lines, the balancing of order and chaos, and preparing to be surprised.
@@ -492,6 +496,10 @@ Générateur de Lorraine Hipseaume.
 ### MAKIO135's toolset
 **MAKIO135** - 2020/10/29 - Twitter thread from MAKIO135 - [Link](https://twitter.com/MAKIO135/status/1321933317625778179)<br>
 A thread about the tools MAKIO135 uses to create loops with only only JavaScript and GLSL.
+
+### Nicole He - Talking to computers
+**Jamin Warren** - 2020/10/28 - Killscreen website - [Link](https://killscreen.com/nicole-he/)<br>
+Interview of Nicole He, creative technologist whose work lives in the space between video games, physical computing, and witty conceptual art.
 
 ### Unraveling the JPEG
 **Omar Shehata** - 2019/03/01 - Parametric press - [Link](https://parametric.press/issue-01/unraveling-the-jpeg/)<br>
