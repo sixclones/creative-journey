@@ -26,6 +26,7 @@ Since I started to code, I was interested by using computers to make creative an
 - [Shell - CLI](#shell---cli)
 - [Unity](#unity)
 - [WebGL](#webgl)
+- [3D printing](#3d-printing)
 - [Others](#others)
 - [What is this and how it works?](#what-is-this-and-how-it-works)
 
@@ -438,6 +439,13 @@ How Takayosi Amagi built his VJ system with Unity and performed.
 ### WebGL Fundamentals
 [Link](https://webglfundamentals.org/), [Link to WebGL2](https://webgl2fundamentals.org)<br>
 WebGL from the ground up. No magic.
+
+---
+
+## 3D printing
+
+### DIY 3D printed custom toolpath patterns
+**Billie Ruben** - 2020/10/13 - YouTube channel of Billie Ruben - [Link](https://youtu.be/zSgW0KoguXc)
 
 ---
 
