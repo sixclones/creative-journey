@@ -242,6 +242,10 @@ Friendly Machine Learning for the Web. A neighborly approach to creating and exp
 **Nathan Gordon** - Github - [Link](https://github.com/oframe/ogl)<br>
 Minimal WebGL Library.
 
+### polybooljs
+**velipso** - Github - [Link](https://github.com/velipso/polybooljs)<br>
+Boolean operations on polygons (union, intersection, difference, xor).
+
 ### RunJS
 [Link](https://runjs.dev/)<br>
 The JavaScript playground for your desktop.
