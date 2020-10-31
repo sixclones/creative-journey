@@ -126,6 +126,10 @@ A series about creating and using pseudorandom noise.
 **Tyler Hobbs** - 2018/01/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)<br>
 Some advice to help improve your generative artwork.
 
+### Track not Found?!
+**xem** - 2020 - Personal website - [Link](https://xem.github.io/articles/js13k20.html)<br>
+Making-of the js13k entry *Track not Found?!*.
+
 ### Working with color in generative art
 **Tyler Hobbs** - 2016/10/23 - Personal website - [Link](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art)<br>
 Description of some of the common techniques and patterns that Hobbs uses when working with colors in generative artwork.
