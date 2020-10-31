@@ -273,6 +273,10 @@ ml4a is a collection of free educational resources devoted to machine learning f
 **Emil Wallner** - 2020 - [Link](https://mlart.co)<br>
 Creativity x Machine Learning, collection of Machine Learning experiments.
 
+### Neural Networks and Deep Learning
+**Michael Nielsen** - Online book - [Link](http://neuralnetworksanddeeplearning.com)<br>
+Teaching about neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data, and deep learning, a powerful set of techniques for learning in neural networks.
+
 ### Session 12: word2vec - Programming with Text
 **Daniel Shiffman** - 2018/10/19 - YouTube channel of The Coding Train - [Link](https://www.youtube.com/watch?v=LSS_bos_TPI&list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF&ab_channel=TheCodingTrain)<br>
 In this playlist, Daniel Shiffman explains word embeddings and the machine learning model word2vec with an eye towards creating JavaScript examples with p5.js.
