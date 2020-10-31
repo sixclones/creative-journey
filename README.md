@@ -489,6 +489,10 @@ The scalable code generator that saves you time.
 **Thomas Beduneau** and **Julien Dubedout** - [Link](https://lorraine-hipseau.me/)<br>
 Générateur de Lorraine Hipseaume.
 
+### MAKIO135's toolset
+**MAKIO135** - 2020/10/29 - Twitter thread from MAKIO135 - [Link](https://twitter.com/MAKIO135/status/1321933317625778179)<br>
+A thread about the tools MAKIO135 uses to create loops with only only JavaScript and GLSL.
+
 ### Unraveling the JPEG
 **Omar Shehata** - 2019/03/01 - Parametric press - [Link](https://parametric.press/issue-01/unraveling-the-jpeg/)<br>
 JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
