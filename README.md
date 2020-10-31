@@ -259,10 +259,18 @@ JavaScript 3D library.
 
 ### But what is a Neural Network?
 **3Blue1Brown** - 2017/10/05 - YouTube channel of 3Blue1Brown - [Link](https://youtu.be/aircAruvnKk)
+<!-- TODO:
+https://youtu.be/IHZwWFHWa-w
+https://youtu.be/Ilg3gGewQ5U
+https://youtu.be/tIeHLnjs5U8 -->
 
 ### Machine Learning for Artists
 [Link](https://ml4a.github.io/)<br>
 ml4a is a collection of free educational resources devoted to machine learning for artists.
+
+### Machine Learning Art
+**Emil Wallner** - 2020 - [Link](https://mlart.co)<br>
+Creativity x Machine Learning, collection of Machine Learning experiments.
 
 ### Session 12: word2vec - Programming with Text
 **Daniel Shiffman** - 2018/10/19 - YouTube channel of The Coding Train - [Link](https://www.youtube.com/watch?v=LSS_bos_TPI&list=PLRqwX-V7Uu6aQ0oh9nH8c6U1j9gCg-GdF&ab_channel=TheCodingTrain)<br>
