@@ -190,6 +190,10 @@ This page compiles examples of large-run printed books with generative cover des
 **Tyler Hobbs** - 2018/05/25 - Personal website - [Link](https://tylerxhobbs.com/essays/2018/intellectualism-hurts-generative-art)<br>
 An essay about the link between clever algorithms and generative art.
 
+### in:verse
+**Sukanya Aneja** - 2020 - [Link](https://inverse.website), [Link to thesis video](https://vimeo.com/425740227)<br>
+in:verse is a programming language and environment for exploring the conflux of poetry, visuals, mathematics and code.
+
 ### So you want to build a generator...
 **Kate Compton** - 2016/02/22 - Personal website - [Link](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)<br>
 This is a beginner-level advice essay for people just getting started with building generators. It’s also for practiced experts who want a way to organize their knowledge. The advice is meant for any kind of generators: humorous twitterbots, fanciful art-making bots, level generators, planet builders, makers of music, architecture, poetry, and cocktails.
