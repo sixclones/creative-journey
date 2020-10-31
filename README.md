@@ -258,12 +258,12 @@ JavaScript 3D library.
 
 ## Machine learning - Neural network
 
-### But what is a Neural Network?
-**3Blue1Brown** - 2017/10/05 - YouTube channel of 3Blue1Brown - [Link](https://youtu.be/aircAruvnKk)
-<!-- TODO:
-https://youtu.be/IHZwWFHWa-w
-https://youtu.be/Ilg3gGewQ5U
-https://youtu.be/tIeHLnjs5U8 -->
+### Deep learning
+**3Blue1Brown** - 2017/10/05 - YouTube channel of 3Blue1Brown
++ [Link to chapter 1: but what is a Neural Network?](https://youtu.be/aircAruvnKk)
++ [Link to chapter 2: gradient descent, how neural networks learn](https://youtu.be/IHZwWFHWa-w)
++ [Link to chapter 3: what is backpropagation really doing?](https://youtu.be/Ilg3gGewQ5U)
++ [Link to chapter 4: backpropagation calculus](https://youtu.be/tIeHLnjs5U8)
 
 ### Machine Learning for Artists
 [Link](https://ml4a.github.io/)<br>
@@ -358,7 +358,13 @@ A guide to writing a ray marcher. Aimed at people who have done a little program
 Ray marching used in combination with a special kind of function called “signed distance functions”, can create some pretty damn cool things in real time.
 
 ### Volumetric rendering
-**Alan Zucconi** - 2016/07/01 - Personal website - [Link to part 1](https://www.alanzucconi.com/2016/07/01/volumetric-rendering/), [Link to part 2: Raymarching](https://www.alanzucconi.com/2016/07/01/raymarching/), [Link to part 3: Surface shading](https://www.alanzucconi.com/2016/07/01/surface-shading/), [Link to part 4: Signed distance functions](https://www.alanzucconi.com/2016/07/01/signed-distance-functions/), [Link to part 5: Ambient occlusion](https://www.alanzucconi.com/2016/07/01/ambient-occlusion/)<br>
+**Alan Zucconi** - 2016/07/01 - Personal website
++ [Link to part 1](https://www.alanzucconi.com/2016/07/01/volumetric-rendering/)
++ [Link to part 2: Raymarching](https://www.alanzucconi.com/2016/07/01/raymarching/)
++ [Link to part 3: Surface shading](https://www.alanzucconi.com/2016/07/01/surface-shading/)
++ [Link to part 4: Signed distance functions](https://www.alanzucconi.com/2016/07/01/signed-distance-functions/)
++ [Link to part 5: Ambient occlusion](https://www.alanzucconi.com/2016/07/01/ambient-occlusion/)
+
 A Unity tutorial dedicated to Volumetric Rendering, raymarching and signed distance fields. These techniques allow us to overcome the biggest limitation of modern 3D engines, which only let us render the outer shell of an object. Volumetric rendering enables the creation of realistic materials that interact with light in a complex way, such as fog, smoke, water and glass.
 
 ---
