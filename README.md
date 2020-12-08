@@ -106,6 +106,10 @@ A range of interactive tutorials, exploring ideas and techniques used in generat
 **inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
 A guide to a simple method of generating impossible architecture.
 
+### Le code créatif pour les nuls (et les devs web) [FR]
+**Nicoptere** - YouTube channel of Publicis Sapient Engineering - [Link](https://youtu.be/U_RepjKqVN4)<br>
+Le code créatif est injustement méconnu, il s'agira donc dans un premier temps de savoir de quoi on parle. Nous nous intéresserons ensuite à la branche web du code créatif au travers de retours d'expérience richement illustrés qui mettront en lumière la variété des sujets et la diversité des outils.
+
 ### Li(n)e
 **WBlut** - Personal website - [Link](https://wblut.com/line/)<br>
 Create a bunch of random line segments and draw circles on every intersection.
