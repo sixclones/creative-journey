@@ -301,6 +301,10 @@ ml4a is a collection of free educational resources devoted to machine learning f
 **Emil Wallner** - 2020 - [Link](https://mlart.co)<br>
 Creativity x Machine Learning, collection of Machine Learning experiments.
 
+### (*My) Procedurally Generated Music is Awful
+**cube drone** - Personal website - [Link](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)<br>
+"Don’t try to procedurally generate something that you can’t already create, dummy."
+
 ### Neural Networks and Deep Learning
 **Michael Nielsen** - Online book - [Link](http://neuralnetworksanddeeplearning.com)<br>
 Teaching about neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data, and deep learning, a powerful set of techniques for learning in neural networks.
