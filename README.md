@@ -106,9 +106,17 @@ A range of interactive tutorials, exploring ideas and techniques used in generat
 **inconvergent** - 2018/01/27 - Personal website - [Link](https://inconvergent.net/2018/impossible-architecture/)<br>
 A guide to a simple method of generating impossible architecture.
 
+### Le code créatif pour les nuls (et les devs web) [FR]
+**Nicoptere** - YouTube channel of Publicis Sapient Engineering - [Link](https://youtu.be/U_RepjKqVN4)<br>
+Le code créatif est injustement méconnu, il s'agira donc dans un premier temps de savoir de quoi on parle. Nous nous intéresserons ensuite à la branche web du code créatif au travers de retours d'expérience richement illustrés qui mettront en lumière la variété des sujets et la diversité des outils.
+
 ### Li(n)e
 **WBlut** - Personal website - [Link](https://wblut.com/line/)<br>
 Create a bunch of random line segments and draw circles on every intersection.
+
+### Making things move
+**Varun Vachhar** - Personal website - [Link](https://varun.ca/torsions/)<br>
+Breakdown of Walter Leblanc’s print Torsions animated.
 
 ### Palettes
 **Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
@@ -230,6 +238,10 @@ This [Oh My Zsh](#oh-my-zsh) git plugin provides many aliases and a few useful f
 
 ## Javascript
 
+### Bezier.js
+[Link](http://pomax.github.io/bezierjs/), [Link to Github](https://github.com/Pomax/bezierjs)<br>
+A library for performing Bezier curve computation. Works both client side and server side.
+
 ### canvas-sketch
 **Matt DesLauriers** - Github - [Link](https://github.com/mattdesl/canvas-sketch)<br>
 A framework for making generative artwork in JavaScript and the browser.
@@ -289,6 +301,10 @@ ml4a is a collection of free educational resources devoted to machine learning f
 **Emil Wallner** - 2020 - [Link](https://mlart.co)<br>
 Creativity x Machine Learning, collection of Machine Learning experiments.
 
+### (*My) Procedurally Generated Music is Awful
+**cube drone** - Personal website - [Link](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)<br>
+"Don’t try to procedurally generate something that you can’t already create, dummy."
+
 ### Neural Networks and Deep Learning
 **Michael Nielsen** - Online book - [Link](http://neuralnetworksanddeeplearning.com)<br>
 Teaching about neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data, and deep learning, a powerful set of techniques for learning in neural networks.
@@ -306,6 +322,10 @@ A (mostly) beginner-friendly thread on how to code simple physical simulations.
 ### Byrne's Euclid
 **Nicholas Rougeux** (reproduction of Oliver Byrne book) - Online book - [Link](https://www.c82.net/euclid/)<br>
 The first six books of the elements of Euclid with coloured diagrams and symbols. A reproduction of Oliver Byrne’s celebrated work from 1847 plus interactive diagrams, cross references and posters.
+
+### Cameras and lenses
+**Bartosz Ciechanowski** - Personal website - [Link](https://ciechanow.ski/cameras-and-lenses/)<br>
+Cameras and the lenses inside them may seem a little mystifying. This blog post is an attempt to explain not only how they work, but also how adjusting a few tunable parameters can produce fairly different results.
 
 ### Collision detection
 **Jeff Thompson** - [Link](http://www.jeffreythompson.org/collision-detection/index.php)<br>
@@ -410,6 +430,18 @@ A language empowering everyone to build reliable and efficient software.
 ### An introduction to shaders
 **Aerotwist** - Personal website - [Link to part 1](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/), [Link to part 2](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-2/)
 
+### Dissolve shader breakdown
+**Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/dissolve-shader-breakdown/)<br>
+Shader effect using noise and step functions to discard pixels (and for colouring edges) to create a dissolve effect.
+
+### Logarithmic Spiral Center 
+**tdhooper** - Twitter thread from tdhoooper - [Link](https://twitter.com/tdhooper/status/1333573132326723585), [Link to Shadertoy](https://www.shadertoy.com/view/tscBDH)<br>
+Documented code to create seamless zooms.
+
+### Portal Shader Breakdown
+**Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/portal-shader-breakdown/)<br>
+Portal shader based on manipulating polar coordinates to create a spiralling effect.
+
 ### The Book of Shaders
 **Patricio Gonzalez Vivo** and **Jen Lowe** - [Link](https://thebookofshaders.com)<br>
 This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
@@ -501,13 +533,13 @@ The scalable code generator that saves you time.
 **Thomas Beduneau** and **Julien Dubedout** - [Link](https://lorraine-hipseau.me/)<br>
 Générateur de Lorraine Hipseaume.
 
-### MAKIO135's toolset
-**MAKIO135** - 2020/10/29 - Twitter thread from MAKIO135 - [Link](https://twitter.com/MAKIO135/status/1321933317625778179)<br>
-A thread about the tools MAKIO135 uses to create loops with only only JavaScript and GLSL.
-
 ### Nicole He - Talking to computers
 **Jamin Warren** - 2020/10/28 - Killscreen website - [Link](https://killscreen.com/nicole-he/)<br>
 Interview of Nicole He, creative technologist whose work lives in the space between video games, physical computing, and witty conceptual art.
+
+### Observable & creative coding
+**makio135** - Observable notebook - [Link](https://observablehq.com/@makio135/creative-coding)<br>
+A review of tools created during one year using Observable.
 
 ### Unraveling the JPEG
 **Omar Shehata** - 2019/03/01 - Parametric press - [Link](https://parametric.press/issue-01/unraveling-the-jpeg/)<br>
