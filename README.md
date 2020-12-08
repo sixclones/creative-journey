@@ -414,6 +414,18 @@ A language empowering everyone to build reliable and efficient software.
 ### An introduction to shaders
 **Aerotwist** - Personal website - [Link to part 1](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/), [Link to part 2](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-2/)
 
+### Dissolve shader breakdown
+**Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/dissolve-shader-breakdown/)<br>
+Shader effect using noise and step functions to discard pixels (and for colouring edges) to create a dissolve effect.
+
+### Logarithmic Spiral Center 
+**tdhooper** - Twitter thread from tdhoooper - [Link](https://twitter.com/tdhooper/status/1333573132326723585), [Link to Shadertoy](https://www.shadertoy.com/view/tscBDH)<br>
+Documented code to create seamless zooms.
+
+### Portal Shader Breakdown
+**Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/portal-shader-breakdown/)<br>
+Portal shader based on manipulating polar coordinates to create a spiralling effect.
+
 ### The Book of Shaders
 **Patricio Gonzalez Vivo** and **Jen Lowe** - [Link](https://thebookofshaders.com)<br>
 This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
