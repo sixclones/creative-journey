@@ -438,7 +438,7 @@ Shader effect using noise and step functions to discard pixels (and for colourin
 **tdhooper** - Twitter thread from tdhoooper - [Link](https://twitter.com/tdhooper/status/1333573132326723585), [Link to Shadertoy](https://www.shadertoy.com/view/tscBDH)<br>
 Documented code to create seamless zooms.
 
-### Portal Shader Breakdown
+### Portal shader breakdown
 **Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/portal-shader-breakdown/)<br>
 Portal shader based on manipulating polar coordinates to create a spiralling effect.
 
