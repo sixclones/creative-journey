@@ -323,6 +323,10 @@ A (mostly) beginner-friendly thread on how to code simple physical simulations.
 **Nicholas Rougeux** (reproduction of Oliver Byrne book) - Online book - [Link](https://www.c82.net/euclid/)<br>
 The first six books of the elements of Euclid with coloured diagrams and symbols. A reproduction of Oliver Byrne’s celebrated work from 1847 plus interactive diagrams, cross references and posters.
 
+### Cameras and lenses
+**Bartosz Ciechanowski** - Personal website - [Link](https://ciechanow.ski/cameras-and-lenses/)<br>
+Cameras and the lenses inside them may seem a little mystifying. This blog post is an attempt to explain not only how they work, but also how adjusting a few tunable parameters can produce fairly different results.
+
 ### Collision detection
 **Jeff Thompson** - [Link](http://www.jeffreythompson.org/collision-detection/index.php)<br>
 This book explains the algorithms behind collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects.
