@@ -114,6 +114,10 @@ Le code créatif est injustement méconnu, il s'agira donc dans un premier temps
 **WBlut** - Personal website - [Link](https://wblut.com/line/)<br>
 Create a bunch of random line segments and draw circles on every intersection.
 
+### Making things move
+**Varun Vachhar** - Personal website - [Link](https://varun.ca/torsions/)<br>
+Breakdown of Walter Leblanc’s print Torsions animated.
+
 ### Palettes
 **Inigo Quilez** - 2015 - Personal website - [Link](https://iquilezles.org/www/articles/palettes/palettes.htm)<br>
 This article is about one posible way to compute procedural palettes for modulation or visualization in a cheap way with a simple formula.
@@ -233,6 +237,10 @@ This [Oh My Zsh](#oh-my-zsh) git plugin provides many aliases and a few useful f
 ---
 
 ## Javascript
+
+### Bezier.js
+[Link](http://pomax.github.io/bezierjs/), [Link to Github](https://github.com/Pomax/bezierjs)<br>
+A library for performing Bezier curve computation. Works both client side and server side.
 
 ### canvas-sketch
 **Matt DesLauriers** - Github - [Link](https://github.com/mattdesl/canvas-sketch)<br>
