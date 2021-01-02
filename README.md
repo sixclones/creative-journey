@@ -166,6 +166,9 @@ Real-time graphics demoscene production by Excess. First presented at Revision 2
 **Alcatraz** - 2019/08/17 - YouTube channel of Demoscene TV - [Link](https://youtu.be/ZIXxsGxmuvY)<br>
 1st place in the PC 4K Intro compo at the Evoke 2019 demoparty.
 
+### Make the Demoscene You Want to See
+[Link](https://www.demoscene-ethics.org)
+
 ### median
 **Ümlaüt Design** - 2016/05/22 - YouTube channel of w0lf Universe - [Link](https://youtu.be/i4vf8kpQ3hA)<br>
 median by Ümlaüt Design, QB Party 2016, demo competition.
