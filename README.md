@@ -396,6 +396,10 @@ This playground lets you use Orca and its companion app Pilot directly in the br
 [Link](https://www.line-us.com/)<br>
 The Internet Connected Drawing Robot
 
+### Getting started with `ln`, the 3D Line Art Engine
+**makio135** - Observable - [Link](https://observablehq.com/@makio135/getting-started-with-ln)<br>
+`ln.js` is a vector-based 3D renderer ported in JavaScript. It is used to produce 2D vector graphics (think SVGs) depicting 3D scenes.
+
 ### Plotter-mapping with Axidraw
 **colormoter** - 2020/10/25 - Tweet from colormotor - [Link](https://twitter.com/colormotor/status/1320356812424646657)<br>
 Mapping video with an axidraw plotting.
