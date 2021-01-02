@@ -453,6 +453,10 @@ A language empowering everyone to build reliable and efficient software.
 ### An introduction to shaders
 **Aerotwist** - Personal website - [Link to part 1](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/), [Link to part 2](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-2/)
 
+### css-doodle: add shaders
+**yuanchuan** - Personal website - [Link](https://yuanchuan.dev/add-shaders)<br>
+Implementation of shaders inside [css-doodle](https://css-doodle.com).
+
 ### Dissolve shader breakdown
 **Cyanilux** - Personal website - [Link](https://www.cyanilux.com/tutorials/dissolve-shader-breakdown/)<br>
 Shader effect using noise and step functions to discard pixels (and for colouring edges) to create a dissolve effect.
