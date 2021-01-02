@@ -86,9 +86,17 @@ Your tiny, dual-display, desktop computer.
 
 ## Creative coding
 
+### 100 days of compform & 100 days
+**Pine & Anthony** - Personals websites - [Pine's Link](https://100.matsu.io) & [Anthony's Link](https://100.antfu.me)<br>
+An exploration of Computational Form.
+
 ### A guide to simulating watercolor paint with generative art
 **Tyler Hobbs** - 2017/04/21 - Personal website - [Link](https://tylerxhobbs.com/essays/2017/a-generative-approach-to-simulating-watercolor-paints)<br>
 Explanation of the technique behind the "watercolor" generative artwork of Tyler Hobbs.
+
+### Codecember
+**Pine & Anthony** - Personal website - [Link](https://codecember.ink)<br>
+Codecember is an invitation to learn and create compform (computation form), one sketch a day, throughout December, 2020.
 
 ### Cracking
 **WBlut** - Personal website - [Link](https://wblut.com/cracking/)<br>
