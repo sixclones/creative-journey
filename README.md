@@ -265,6 +265,10 @@ A framework for making generative artwork in JavaScript and the browser.
 [Link](https://www.dwitter.net)<br>
 Dwitter.net is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
 
+### Going from JavaScript to WebAssembly in three steps
+**Marcel Duin** - Q42 Engineering website - [Link](https://engineering.q42.nl/webassembly/)<br>
+A journey of taking the Micrio client to the next level.
+
 ### HTML5 Canvas tutorials
 [Link](http://www.html5canvastutorials.com)<br>
 Here you will find the best tutorials and resources to learn Canvas and other HTML5 aspects.
