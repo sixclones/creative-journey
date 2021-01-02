@@ -548,6 +548,10 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 [Link](https://carbon.now.sh/)<br>
 Create and share beautiful images of your source code.
 
+### FarbVélo
+**David Aerne** - [Link](https://farbvelo.elastiq.ch)<br>
+FarbVélo (Swiss-German for color bicycle) is a playful color picking tool. It follows simple rules and uses lots of gerates random numbers to help you come up with pleasing color combinations or just chill while cycling through color harmonies.
+
 ### High quality GIF with FFmpeg
 **pkh** - 2015/03/16 - Personal website - [Link](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)<br>
 Improve the support of the GIF encoding in FFmpeg to make it decent, notably led to the addition of the transparency mechanism in the GIF encoder.
